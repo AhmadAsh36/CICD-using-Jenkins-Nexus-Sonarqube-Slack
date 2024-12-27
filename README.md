@@ -1,4 +1,4 @@
-![Alt text](
+![Alt text](Continuous Integration Using Jenkins,Nexus,Sonarqube& Slack.png)
 # CICD-Using-Jenkins-Nexus-Sonarqube-Slack
 
 ## Prerequisites
